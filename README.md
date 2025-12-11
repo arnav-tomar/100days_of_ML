@@ -25,3 +25,9 @@ I post updates here **every day** as part of my consistency challenge.
 - Day 17 in ML
 - Day 18 in ML
 - Day 19 in ML
+- Day 20 in ML
+- Day 21 in ML
+- Day 22 in ML
+- Day 23 in ML
+- Day 24 in ML
+- 
