@@ -31,3 +31,9 @@ I post updates here **every day** as part of my consistency challenge.
 - Day 23 in ML
 - Day 24 in ML
 - Day 25 in ML
+- Day 26 in ML
+- Day 27 in ML
+- Day 28 in ML
+- Day 29 in ML
+- Day 30 in ML
+  
