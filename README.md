@@ -30,4 +30,4 @@ I post updates here **every day** as part of my consistency challenge.
 - Day 22 in ML
 - Day 23 in ML
 - Day 24 in ML
-- 
+- Day 25 in ML
