@@ -36,4 +36,7 @@ I post updates here **every day** as part of my consistency challenge.
 - Day 28 in ML
 - Day 29 in ML
 - Day 30 in ML
-  
+- Day 31 in ML
+- Day 32 in ML
+- Day 33 in ML
+- Day 34 in ML
