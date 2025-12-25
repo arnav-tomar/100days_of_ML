@@ -45,3 +45,5 @@ I post updates here **every day** as part of my consistency challenge.
 - Day 37 in ML
 - Day 38 in ML
 - Day 39 in ML
+- Day 40 in ML
+- Day 41 in ML
