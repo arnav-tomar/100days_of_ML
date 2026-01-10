@@ -2,7 +2,7 @@
 ### My ML Learning Journey (Daily Updates)
 
 Welcome to my **100 Days of ML** repository!  
-I am currently following **CampusX’s 100 Days of Machine Learning** playlist, and this repo contains my **daily notes, code, assignments, and projects**.
+I am currently following **100 Days of Machine Learning** playlist, and this repo contains my **daily notes, code, assignments, and projects**.
 
 ---
 
